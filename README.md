@@ -8,27 +8,33 @@ This central repository serves as a gateway to **four** distinct sub-repositorie
 
 Please explore the individual sub-repositories for specific NLP topics:
 
-1. [Natural Language Processing with Classification and Vector Spaces](https://github.com/SkanderGasmi/Natural-Language-Processing-with-Classification-and-Vector-Spaces)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+1. [Natural Language Processing with Classification and Vector Spaces](https://github.com/SkanderGasmi/NLP-with-classification-and-vector-spaces)
 This sub-repository delves into the fundamentals of text classification and vector space models. Whether you're working on sentiment analysis, text categorization, or document retrieval, you'll find resources and code samples to help you get started.
 
-2. Natural Language Processing with Probabilistic Models
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+_____________________________________________________________________________________________________________________________________________________________________________
 
+3. [Natural Language Processing with Probabilistic Models](https://github.com/SkanderGasmi/NLP-with-Probabilistic-Models)
 In this sub-repository, we explore the world of probabilistic models in NLP. You'll discover techniques like Hidden Markov Models (HMMs), Naive Bayes, and Conditional Random Fields (CRFs) applied to various NLP tasks such as part-of-speech tagging and named entity recognition.
 
-3. Natural Language Processing with Sequence Models ()
-4. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+_____________________________________________________________________________________________________________________________________________________________________________
+
+
+5. [Natural Language Processing with Sequence Models](https://github.com/SkanderGasmi/NLP-with-Sequence-Models)
 Sequence models are crucial in NLP for tasks like machine translation, speech recognition, and text generation. Dive into this sub-repository to find resources and code examples for building and training sequence models such as Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks.
 
-5. Natural Language Processing with Attention Models
-Link to Repository
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+_____________________________________________________________________________________________________________________________________________________________________________
 
+
+7. [Natural Language Processing with Attention Models]([NLP-With-Attention-Models](https://github.com/SkanderGasmi/NLP-With-Attention-Models)
 Attention models have revolutionized NLP by improving the handling of long sequences and capturing context effectively. In this sub-repository, explore various attention mechanisms, including self-attention and transformer models, and their applications in tasks like language translation and summarization.
 
-Getting Started
-To get started with any of the above sub-repositories, simply click on the provided links, and you'll be directed to the respective repository. There, you'll find detailed documentation, code samples, and tutorials to help you understand and apply NLP techniques in your projects.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+_____________________________________________________________________________________________________________________________________________________________________________
 
-Issues and Contributions
-If you encounter any issues, have questions, or want to contribute to any of the sub-repositories, please refer to the respective repository's README and contribution guidelines for detailed instructions.
 
-We hope this NLP Repository proves to be a valuable resource for your Natural Language Processing endeavors. Happy coding!
+
