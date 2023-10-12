@@ -24,4 +24,30 @@ In this sub-repository, we explore the world of probabilistic models in NLP. You
 7. [NLP with Attention Models](https://github.com/SkanderGasmi/NLP-With-Attention-Models)
 Attention models have revolutionized NLP by improving the handling of long sequences and capturing context effectively. In this sub-repository, explore various attention mechanisms, including self-attention and transformer models, and their applications in tasks like language translation and summarization.
 
+
+
+
+___________________
+
+NLP Repository
+- Text Classification
+  * Project 1: Sentiment Analysis using LSTM
+  * Project 2: Spam vs. Ham Classification
+  * Project 3: News Article Categorization
+- Named Entity Recognition (NER)
+  * Project 4: NER using BiLSTM-CRF
+  * Project 5: Custom NER for Domain-Specific Text
+- Text Generation
+  * Project 6: Text Generation with GPT-2
+  * Project 7: Poetry Generation with RNN
+- Language Translation
+  * Project 8: English-French Machine Translation
+  * Project 9: Multilingual Translation with Transformers
+- Question Answering
+  * Project 10: Question Answering with BERT
+- Topic Modeling
+  * Project 11: Latent Dirichlet Allocation (LDA) for Topic Modeling
+- NLP Tutorials
+  * Project 12: A collection of Jupyter notebooks with NLP tutorials and guides.
+
 -----------------------------------------------------------------------------------------------------------------------------
